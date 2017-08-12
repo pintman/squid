@@ -208,7 +208,7 @@ When all the resistors are soldered, it will look like this.
 
 ## Step 3. Solder on the header wires
 
-Slip the heat shrink sleaving over the wires BEFORE soldering the wires to the resistor wires and the common cathode. Use red for the red anode, green for bgreen and blue for blue and use a black wire for the common cathode.
+Slip the heat shrink sleaving over the wires BEFORE soldering the wires to the resistor wires and the common cathode. Use red for the red anode, green for green and blue for blue and use a black wire for the common cathode.
 
 ![soldering the header wires](http://simonmonk.org/wp-content/uploads/2015/04/07_all_leads-copy.jpg)
 
